@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm Nisarga</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Varun</h1>
+<h3 align="center">A passionate WordPress developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisarg-27&label=Profile%20views&color=0e75b6&style=flat" alt="nisarg-27" /> </p>
 
 
-- 🔭 I’m currently working on **Manifest In You (Meditation App)**
-
-- 🌱 I’m currently learning **VueJS**
+- 🌱 I’m currently learning JavaScript
 
 - 👯 I’m looking to collaborate on **Web3 Projects**
 
-- 💬 Ask me about **React,Javascript, PHP, HTML/CSS, Android, C/C++, Java**
+- 💬 Ask me about  HTML/CSS, C/C++, Java**
 
-- 📫 How to reach me **nisargaovhal@gmail.com**
+- 📫 How to reach me **palphadevarun@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
