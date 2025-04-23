@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisarg-27&label=Profile%20views&color=0e75b6&style=flat" alt="nisarg-27" /> </p>
 
 
-- 🌱 I’m urrently building an agentic AI pipeline using OpenAI, DeepSeek, and LangChain
+- 🌱 I’m urrently building an agentic AI pipeline using OpenAI, DeepSeek, SerpAPI and LangChain
 
 - 📫 How to reach me **palphadevarun@gmail.com**
 
