@@ -19,22 +19,23 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Engineering student at VIIT
+- 🎓 Masters in Computer Applications 
 - 💼 Intern at Clarovate
-- 🧠 Passionate about AI, LLMs, Machine Learning
+- 🧠 Passionate about AI, LLMs, Machine Learning, Data Analysis
 - 🌐 Exploring full-stack development with React, Node.js, and TypeScript 
 
 ## 🧰 Tools & Technologies
 
 ### 💻 Languages  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![DAX](https://img.shields.io/badge/-DAX-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![DAX](https://img.shields.io/badge/-DAX-00AFF0?style=flat-square&logo=windows-terminal&logoColor=white)
 ![PowerQuery](https://img.shields.io/badge/-PowerQuery-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 
 
@@ -83,6 +84,6 @@
 - 🌐 [Portfolio](https://portfolio-anishshet5-gmailcoms-projects.vercel.app)
 
 ---
-📄 [View My Resume](https://github.com/anishshet/anishshet/blob/main/Anish_Shet.pdf)
+📄 [View My Resume](https://github.com/VarunPalphade/VarunPalphade/blob/main/Varun_Palphade.pdf)
 
 *“Striving for excellence in every line of code.”*
