@@ -34,7 +34,7 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![DAX](https://img.shields.io/badge/-DAX-00AFF0?style=flat-square&logo=windows-terminal&logoColor=white)
-![PowerQuery](https://img.shields.io/badge/-PowerQuery-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PowerQuery](https://img.shields.io/badge/-PowerQuery-00AFF0?style=flat-square&logo=windows-terminal&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 
