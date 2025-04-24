@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nisarg-27&label=Profile%20views&color=0e75b6&style=flat" alt="nisarg-27" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VarunPalphade&label=Profile%20views&color=0e75b6&style=flat" alt="varunpalphade" /> </p>
 
 <!--- 🌱 I’m urrently building an agentic AI pipeline using OpenAI, DeepSeek, SerpAPI and LangChain
 
