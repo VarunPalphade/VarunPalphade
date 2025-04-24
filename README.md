@@ -15,6 +15,7 @@
 <a href="https://www.linkedin.com/in/varun-palphade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nisarga-ovhal/" height="30" width="40" /></a>
 </p> -->
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+Enthusiast;React+%7C+Node+%7C+TypeScript;Intern+%40+Clarovate)
 
 
 ## 🚀 About Me
