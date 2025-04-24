@@ -84,7 +84,7 @@
 - 📧 Email: palphadevarun@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/varun-palphade/)
 - 🧠 [GitHub](https://github.com/VarunPalphade) 
-- 🌐 [Portfolio](https://portfolio-anishshet5-gmailcoms-projects.vercel.app)
+- 🌐 [Portfolio](https://portfolio-palphadevarun-gmailcoms-projects.vercel.app/)
 
 ---
 📄 [View My Resume](https://github.com/VarunPalphade/VarunPalphade/blob/main/Varun_Palphade.pdf)
