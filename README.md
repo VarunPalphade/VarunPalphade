@@ -21,8 +21,6 @@
 
 ## 🚀 About Me
 
-- 🎓 Masters in Computer Applications 
-- 💼 Intern at Clarovate
 - 🧠 Passionate about AI, LLMs, Machine Learning, Data Analysis
 - 🌐 Exploring full-stack development with React, Node.js, and TypeScript 
 - 🏗️ I’m currently building agentic AI pipeline using OpenAI, DeepSeek, SerpAPI and LangChain
